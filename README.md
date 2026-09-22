@@ -8,7 +8,7 @@ Works in **any project** — install as a personal skill, then ask the agent to 
 
 ```bash
 mkdir -p ~/.cursor/skills
-git clone https://github.com/KEYA_OR_ORG/fetch-news-skill.git ~/.cursor/skills/fetch-news
+git clone https://github.com/keya254/fetch-news-skill.git ~/.cursor/skills/fetch-news
 ```
 
 Or copy this folder into `~/.cursor/skills/fetch-news/`.
